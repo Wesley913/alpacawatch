@@ -1,0 +1,14 @@
+2022-03-12	Add AUSD(Stable status), Fix issue
+2022-03-09	Add AUSD(test)
+2022-02-07      Fixed issue
+2022-01-13	Fixed issue
+2022-01-05      Fixed issue
+2021-11-23      Add history for others
+2021-11-22      Add ETH history by CLICK, short url: http://alpacawatch.info/
+2021-10-21      Fixed issue, PCS Stable APY Data Collecting
+2021-08-22      Improve Chart, UI; Trying force reload image
+2021-08-21      Add utilization mixed, improve UI
+2021-08-20	Improve image reload
+2021-08-19	Add timestamp, Improve UI
+2021-08-17	Add Total APY Tracing, upgraded chart frequency
+2021-08-16      Add News from APALACA Twitter

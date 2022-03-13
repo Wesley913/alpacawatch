@@ -1,0 +1,9 @@
+<script>    
+   var vApiTokenTelegram = "2013634494:AAEprR4rGFUgojjkcKUklxT1_iypadWu_9Y"; 
+    var vUrlTelegram = "https://api.telegram.org/bot" + vApiTokenTelegram;
+
+    function getUpdates() {
+        var response = UrlFetchApp.fetch(vUrlTelegram + "/getUpdates");
+        console.log(response.getContentText());
+    }
+</script>

@@ -1,3 +1,4 @@
+2022-03-25	ADD Automated Vaults
 2022-03-12	Add AUSD(Stable status), Fix issue
 2022-03-09	Add AUSD(test)
 2022-02-07      Fixed issue

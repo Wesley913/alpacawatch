@@ -1,3 +1,4 @@
+2022-05-08	Add AVaults on Fantom
 2022-04-04	Add Fantom APY
 2022-03-26	Fix AUSD price, Fix comment
 2022-03-25	ADD Automated Vaults
